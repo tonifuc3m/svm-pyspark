@@ -5,7 +5,7 @@ Python 3 Jupyter notebook to be run on Databricks.
 
 Databricks Runtime Version: 5.2 (includes Apache Spark 2.4.0, Scala 2.11)
 
-Dataset should be uploaded to Databricks Data section.
+Dataset must be unzipped and uploaded to Databricks Data section.
 
 Steps: 
 1. Data reading and preprocessing: normalization, train-test split and preparation.
